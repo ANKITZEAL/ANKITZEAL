@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit Pathak
 - 👀 I’m interested in Deep learning ,Statitics,Machine learning
-- 🌱 I’m currently learning Nsatural language processing ,Time series Forecasting
+- 🌱 I’m currently learning Natural language processing ,Time series Forecasting,Reinforcement learning
 - 💞️ I’m looking to collaborate on Open source community
 - 📫 Reach me https://www.linkedin.com/in/ankit-pathak-146bab40/
 
